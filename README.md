@@ -6,7 +6,7 @@ I hope you find this helpfull. <br>
   ### 🤌🏻 Useful resources
 - https://leetcode.com/studyplan/30-days-of-javascript/
 
-## 🏳️‍🌈 Author 
+## 🏳️‍🌈 Author
 
 - Tuğçe Çifci - [@tucecifci](https://github.com/tucecifci)
 - Frontend Mentor - [@tucecifci](https://www.frontendmentor.io/profile/tucecifci)
