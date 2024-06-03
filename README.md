@@ -1,4 +1,4 @@
-# Leet Code 30 days of JavaScript Solutions
+# Leet Code 30 days of JavaScript Solutions 
 Hello everybody! 👋 </br> 
 ✨ Welcome to the solutions to Leet Code's 30 Days of Javascript challenge. <br>
 I hope you find this helpfull. <br>
