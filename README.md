@@ -4,7 +4,7 @@ Hello everybody! 👋 </br>
 I hope you find this helpfull. <br>
 
   ### 🤌🏻 Useful resources
-- https://leetcode.com/studyplan/30-days-of-javascript/
+- https://leetcode.com/studyplan/30-days-of-javascript/ 
 
 ## 🏳️‍🌈 Author
 
